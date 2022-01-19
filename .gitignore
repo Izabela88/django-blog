@@ -1,0 +1,9 @@
+venv-django-blog
+core.Microsoft*
+core.mongo*
+core.python*
+env.py
+__pycache__/
+*.py[cod]
+node_modules/
+final_project/
